@@ -6,7 +6,7 @@ place = int(args[1])
 name = args[2]
 
 #リスト anilmals の作成
-animals = ["giraffe", "tiger", "zebra", "elephant", "lion"]
+animals = ["cat", "tiger", "zebra", "elephant", "lion"]
 #引数の要素数の位置に、挿入
 animals.insert(place, name)
 #最後の要素を削除
